@@ -11,7 +11,7 @@ Praticar diferentes Padrões de Projetos utilizados no dia a dia dos desenvolved
 
 ## Distribuição das Pastas
 
-Padrões de Projeto: Pasta com as atividades de prática relacionadas aos assuntos vistos em aula.
+Desafio-Projeto-Patterns-Dio: Pasta com as atividades de prática relacionadas aos assuntos vistos em aula.
 
 ## Tecnologias Utilizadas
 
